@@ -65,6 +65,7 @@ I'm a **Tech Enthusiast 💻😃**, passionate about **learning and working with
 
 ## 💼 Experience
 
+- **Amazon** — *Software Development Engineer Intern* (May 2025 - August 2025) 
 - **PTC Software** — *Software Developer* (Jul 2022 - Jul 2024)  
 - **PTC Software** — *Research & Development Intern* (Aug 2021 - Jun 2022)  
 - **Persistent Systems** — *Software Intern* (May 2021 - Jul 2021)  
